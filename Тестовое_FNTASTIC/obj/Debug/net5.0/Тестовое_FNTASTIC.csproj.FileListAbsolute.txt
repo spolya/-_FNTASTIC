@@ -1,0 +1,16 @@
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\bin\Debug\net5.0\Тестовое_FNTASTIC.exe
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\bin\Debug\net5.0\Тестовое_FNTASTIC.deps.json
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\bin\Debug\net5.0\Тестовое_FNTASTIC.runtimeconfig.json
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\bin\Debug\net5.0\Тестовое_FNTASTIC.runtimeconfig.dev.json
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\bin\Debug\net5.0\Тестовое_FNTASTIC.dll
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\bin\Debug\net5.0\ref\Тестовое_FNTASTIC.dll
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\bin\Debug\net5.0\Тестовое_FNTASTIC.pdb
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.csprojAssemblyReference.cache
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.AssemblyInfoInputs.cache
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.AssemblyInfo.cs
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.csproj.CoreCompileInputs.cache
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.dll
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\ref\Тестовое_FNTASTIC.dll
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.pdb
+E:\_Works\FNTASTIC\Тестовое_FNTASTIC\Тестовое_FNTASTIC\obj\Debug\net5.0\Тестовое_FNTASTIC.genruntimeconfig.cache

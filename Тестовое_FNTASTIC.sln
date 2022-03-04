@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тестовое_FNTASTIC", "Тестовое_FNTASTIC\Тестовое_FNTASTIC.csproj", "{776B9ABA-8C4E-4CBD-8E18-297DA92F05D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776B9ABA-8C4E-4CBD-8E18-297DA92F05D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776B9ABA-8C4E-4CBD-8E18-297DA92F05D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776B9ABA-8C4E-4CBD-8E18-297DA92F05D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776B9ABA-8C4E-4CBD-8E18-297DA92F05D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5F6618-056F-44E5-8A51-2EE4006F9514}
+	EndGlobalSection
+EndGlobal
